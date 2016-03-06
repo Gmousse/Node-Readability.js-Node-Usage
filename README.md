@@ -18,3 +18,5 @@ node makeHTMLFileReadable.js /path/to/yourfile.html /path/to/yourparsedfile.html
 ````
 
 To understand how it works, look at the script.
+
+**You can see the result of a wikipedia page transformation under result.html.**
