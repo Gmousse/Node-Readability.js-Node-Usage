@@ -1,7 +1,7 @@
 'use strict';
 const fs = require('fs');
 const jsdom = require('jsdom').jsdom;
-const Readability = require('readability').Readability;
+const Readability = require('readability/index.js').Readability;
 
 function readFile(path) {
     return fs.readFileSync(path, {encoding: 'utf-8'}).trim();
