@@ -1,5 +1,7 @@
 # makeHTMLFileReadable.js
 
+ [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 #### A simple example on how to use Mozilla Readability.js under Node.js to parse HTML files. 
 
 You can find the mozilla repository here : https://github.com/mozilla/readability
